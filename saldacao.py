@@ -1,4 +1,3 @@
 def saudacao(nome):
-  return f'boa tarde, {nome}
-
+  return f'tenha um otimo final de semana'
 print (saudacao('Leo'))
